@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Zhaohui Chen 陈朝晖
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Zhaohui
+last_name: Chen
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 陈朝晖
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Ocean University of China
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
