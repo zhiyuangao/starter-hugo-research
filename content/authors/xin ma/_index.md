@@ -7,7 +7,7 @@ first_name: Xin
 last_name: Ma
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Professor of Physical Oceanography

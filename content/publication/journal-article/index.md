@@ -1,16 +1,16 @@
 ---
-title: 'An example journal article'
+title: 'Dynamics of the seasonal variation of the North Equatorial Current bifurcation'
 authors:
-  - admin
-  - Robert Ford
+  - Zhaohui Chen
+  - Lixin Wu
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
+date: '2011-02-15T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2011-02-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
