@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2010JC006664
 url_code: ''
 url_dataset: ''
 url_poster: ''
