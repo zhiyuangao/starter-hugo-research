@@ -10,7 +10,7 @@ last_name: Ma
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Physical Oceanography
 
 # Organizations/Affiliations
 organizations:
